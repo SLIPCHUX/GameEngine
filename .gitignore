@@ -4,3 +4,7 @@
 *.idb
 /.vs
 *.tlog
+*.vcxproj
+*.filters
+*.log
+*.user
